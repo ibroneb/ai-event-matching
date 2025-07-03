@@ -5,7 +5,7 @@
 
 This project demonstrates a basic AI-based event recommendation engine using TensorFlow. It uses a neural network with embeddings to learn match scores between users and campus events based on historical interaction data.
 
->Note: This sample implementation is inspired by a proprietary matching system I developed during a previous internship. All data and code here are synthetic and for demonstration purposes only.
+>Note: This sample implementation is inspired by a proprietary matching system I developed during a previous internship. All data are synthetic and for demonstration purposes only.
 
 ## Features
 - User and event embeddings
